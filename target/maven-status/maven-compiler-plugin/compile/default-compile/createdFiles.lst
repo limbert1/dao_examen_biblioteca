@@ -1,0 +1,5 @@
+com\emergentes\dao\LibroDaoImpl.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\modelo\Libro.class
+com\emergentes\controlador\LibroController.class
+com\emergentes\dao\LibroDao.class
